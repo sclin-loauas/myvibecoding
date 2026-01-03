@@ -37,3 +37,10 @@ cursor的terminal操作需要每次授权，应该有个mcp的统一授权接口
 cursor会自己劈里啪啦写代码，修bug，执行一段时间会来询问用户后续工作量比较大，要不要继续，还是先测一下前面的代码。可以在聊天窗口里说自己的意见，这个vibe的感觉对了！
 
 糟了，vibe的正舒服的时候，cursor和我说要升级pro。消费20刀~
+
+
+
+记录一些好玩的东西
+
+https://github.com/buhe/build-your-own-x-zh
+https://github.com/FoundationAgents/MetaGPT
