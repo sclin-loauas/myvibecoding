@@ -40,6 +40,11 @@ cursor会自己劈里啪啦写代码，修bug，执行一段时间会来询问�
 
 cusor好慢，而且有种越用越慢的感觉，经常报链接失败，cursor有套路
 
+cursor慢的原因找到了，和vpn有关系，经过一通尝试，有效的方法是把vpn设置成全局模式，并打开TUN模式。把cursor的http2.0改成1.1实测没用。
+<img width="1117" height="571" alt="image" src="https://github.com/user-attachments/assets/15b96f1a-3401-491b-b35d-d5fdc57e69db" />
+<img width="1195" height="515" alt="image" src="https://github.com/user-attachments/assets/15aa716e-26b7-466e-8c70-e764d91baa17" />
+
+
 
 
 记录一些好玩的东西
