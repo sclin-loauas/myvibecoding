@@ -45,6 +45,11 @@ cursor慢的原因找到了，和vpn有关系，经过一通尝试，有效的�
 <img width="1195" height="515" alt="image" src="https://github.com/user-attachments/assets/15aa716e-26b7-466e-8c70-e764d91baa17" />
 
 
+2026-1-10
+cursor修改的文件竟然不会保存，又重新搞了一遍
+cursor的小bug特别多，而且自己检查不出来，要靠编译器一遍一遍的改，不知道会不会有反复出现的bug
+
+
 
 
 记录一些好玩的东西
